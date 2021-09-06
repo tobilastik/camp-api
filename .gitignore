@@ -1,0 +1,4 @@
+node_modules/
+config.env
+seeder.js
+_data/
